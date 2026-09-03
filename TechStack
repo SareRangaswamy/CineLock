@@ -1,0 +1,34 @@
+# Technology Stack
+
+## Backend
+- Java 21
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+
+## Security
+- Spring Security
+- JWT Authentication
+- Role-Based Authorization
+
+## Database & Caching
+- MySQL
+- Redis
+
+## Concurrency
+- Pessimistic Locking
+- Transaction Management
+- Java Multithreading
+- CountDownLatch
+
+## API & Testing
+- REST APIs
+- Swagger / OpenAPI
+- Postman
+- JUnit
+
+## DevOps
+- Docker
+- Maven
+- Git
+- GitHub
